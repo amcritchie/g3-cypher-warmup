@@ -46,7 +46,9 @@ Output:
 
 ### Keying the deck
 
-6. You will want to shuffle the deck since this will randomize the cards, adding security to your cipher. Since we are just testing things out, let’s skip the shuffling, and assume our cards are in the correct order of value.
+6. You will want to shuffle the deck since this will randomize the cards, adding security to your cipher.
+Since we are just testing things out, let’s skip the shuffling, and assume our cards are in the correct
+order of value.
 
 *Top of deck*
 Ace of clubs -> King of clubs
@@ -84,7 +86,8 @@ Since we have now moved B as well.
 
 `2 3 … 52 A B 1`
 
-11. Output letter: Using the value of the top card, in our case 2. Count that many cards down and look at the card, in our case 4. Convert 4 to a letter using our method.
+11. Output letter: Using the value of the top card, in our case 2. Count that many cards down and look at the card, in our case 4.
+Convert 4 to a letter using our method.
 
 `2 3 *4* 5 6 7`
 
